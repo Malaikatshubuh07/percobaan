@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar{
+    background-color: brown;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: block;
+    height: 80px;
+}
+
+li{
+    list-style-type:none ;
+    display: inline-flex;
+    margin:10px;
+    
+}
